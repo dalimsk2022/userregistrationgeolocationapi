@@ -1,0 +1,6 @@
+server:
+  port: 9002
+  
+locationapi:
+  service:
+    geolocation: http://ip-api.com/json/
